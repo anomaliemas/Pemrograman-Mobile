@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello UI</string>
+    <string name="sapa">Sapa</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="mode_gelap_terang">Mode Gelap/Terang</string>
+    <string name="textview">TextView</string>
+</resources>
