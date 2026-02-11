@@ -5,9 +5,13 @@ Aplikasi ini adalah proyek Android sederhana berbasis Kotlin yang menampilkan an
 &nbsp;
 
 **Cara Menjalankan**
+
 1\. Buka folder proyek ini menggunakan **Android Studio**.
+
 2\. Tunggu proses **Gradle Sync** selesai.
+
 3\. Klik tombol **Run** pada toolbar untuk menjalankan aplikasi di emulator atau perangkat fisik.
 
 **Video Demonstrasi**
 Tonton video penggunaan aplikasi di sini: https://youtu.be/VHp3PeL91mE
+
