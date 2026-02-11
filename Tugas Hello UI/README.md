@@ -13,5 +13,7 @@ Aplikasi ini adalah proyek Android sederhana berbasis Kotlin yang menampilkan an
 3\. Klik tombol **Run** pada toolbar untuk menjalankan aplikasi di emulator atau perangkat fisik.
 
 **Video Demonstrasi**
+
 Tonton video penggunaan aplikasi di sini: https://youtu.be/VHp3PeL91mE
+
 
