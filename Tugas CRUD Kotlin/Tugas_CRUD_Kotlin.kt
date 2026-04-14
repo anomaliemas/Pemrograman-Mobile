@@ -1,3 +1,5 @@
+package com.example.tugascrudkotlin
+
 data class Barang(val id: Int, var nama: String, var jumlah: Int)
 
 class PengelolaStok {
@@ -9,7 +11,7 @@ fun main() {
     val cekStok = PengelolaStok()
     cekStok.stok = 10
 
-    val daftarBelanja = ArrayList<Barang>()
+    val daftarBelanja = ArrayList<Barang>() 
     var menu: String? 
 
     println("DAFTAR BELANJA")
